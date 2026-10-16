@@ -16,6 +16,15 @@ The thesis asks how the landscape of Swiss periodicals changed between 1830 and 
 | Fictional registration | 2026-12-01                                             |
 | Fictional submission   | 2027-06-01                                             |
 
+## Research question and scope
+
+**Research question:** How did the landscape of Swiss periodicals change between 1830 and 1960 by language, place, and subject?
+
+| In scope                                                  | Out of scope                                   |
+| --------------------------------------------------------- | ---------------------------------------------- |
+| 30 synthetic periodical records (German, French, Italian) | Real archival records or digitised page images |
+| Place, language, frequency, and years of publication      | Content analysis of articles                   |
+| Reuse status of the fictional scans                       | Readers, subscribers, or other personal data   |
 ## Visibility
 
 This exercise repository is public because it contains only synthetic data.
