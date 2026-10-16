@@ -16,7 +16,7 @@ The thesis asks how the landscape of Swiss periodicals changed between 1830 and 
 | Fictional registration | 2026-12-01                                             |
 | Fictional submission   | 2027-06-01                                             |
 
-## Research question and scope
+## Research question and scoperrr
 
 **Research question:** How did the landscape of Swiss periodicals change between 1830 and 1960 by language, place, and subject?
 
